@@ -7,5 +7,6 @@ public class DevClass {
         System.out.println("DevClass");
         //Added by Nirmalya
         //this part is commited by feature/feature1
+        //Merging into master
     }
 }
